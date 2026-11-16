@@ -30,11 +30,11 @@ This repository will document my approach to enumeration, vulnerability analysis
 
 ### Hack The Box Write-ups
 
-| Machine | Difficulty | OS | Write-up |
-|---|---|---|---|
-| Nibbles | Easy | Linux | [View](hackthebox/nibbles.md) |
-| Footprinting | Easy | Linux | [View](hackthebox/footprinting-easy.md) |
-| Footprinting | Medium | Windows | [View](hackthebox/footprinting-medium-incomplete.md) |
+| Machine | Difficulty | OS | Status | Write-up |
+|---|---|---|---|---|
+| Nibbles | Easy | Linux | Completed | [View](hackthebox/nibbles.md) |
+| Footprinting | Easy | Linux | Completed | [View](hackthebox/footprinting-easy.md) |
+| Footprinting | Medium | Windows | Incomplete | [View](hackthebox/footprinting-medium-incomplete.md) |
 
 ## Write-up format
 
