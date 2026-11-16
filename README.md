@@ -10,6 +10,17 @@ This repository will document my approach to enumeration, vulnerability analysis
 
 > **Certification status:** CPTS learning path in progress. I do not currently claim to hold the CPTS certification.
 
+## Write-ups
+
+### Hack The Box Write-ups
+
+| Machine | Difficulty | OS | Status | Write-up |
+|---|---|---|---|---|
+| Nibbles | Easy | Linux | Completed | [View](hackthebox/nibbles.md) |
+| Footprinting | Easy | Linux | Completed | [View](hackthebox/footprinting-easy.md) |
+| Footprinting | Medium | Windows | Incomplete | [View](hackthebox/footprinting-medium.md) |
+| TwoMillion | Easy | Linux | Incomplete | [View](hackthebox/twomillion.md) |
+
 ## Areas of focus
 
 - Network and service reconnaissance
@@ -25,17 +36,6 @@ This repository will document my approach to enumeration, vulnerability analysis
 - Burp Suite
 - Metasploit
 - Linux command-line utilities
-
-## Write-ups
-
-### Hack The Box Write-ups
-
-| Machine | Difficulty | OS | Status | Write-up |
-|---|---|---|---|---|
-| Nibbles | Easy | Linux | Completed | [View](hackthebox/nibbles.md) |
-| Footprinting | Easy | Linux | Completed | [View](hackthebox/footprinting-easy.md) |
-| Footprinting | Medium | Windows | Incomplete | [View](hackthebox/footprinting-medium.md) |
-| TwoMillion | Easy | Linux | Incomplete | [View](hackthebox/twomillion.md) |
 
 ## Write-up format
 
