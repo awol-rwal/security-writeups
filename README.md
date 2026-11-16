@@ -33,6 +33,8 @@ This repository will document my approach to enumeration, vulnerability analysis
 | Machine | Difficulty | OS | Write-up |
 |---|---|---|---|
 | Nibbles | Easy | Linux | [View](hackthebox/nibbles.md) |
+| Footprinting | Easy | Linux | [View](hackthebox/footprinting-easy.md) |
+| Footprinting | Medium | Windows | [View](hackthebox/footprinting-medium-incomplete.md) |
 
 ## Write-up format
 
