@@ -22,13 +22,13 @@ This repository will document my approach to enumeration, vulnerability analysis
 | TwoMillion | Easy | Linux | Incomplete | [View](hackthebox/twomillion.md) |
 
 ## Write-up format
-1. Overview: Machine name, difficulty, operating system, completion status, and a short attack-path summary.
-2. Reconnaissance and enumeration: Actual commands executed, relevant outputs, discovered services and their significance.
-3. Vulnerability identification: How you identified a weakness, why you believed it was exploitable and what evidence confirmed it.
-4. Initial access: The steps that resulted in access, including the relevant commands and successful output.
-5. Privilege escalation: The enumeration, misconfiguration or vulnerability that enabled elevated privileges, with evidence of the resulting access.
-6. Remediation: Specific changes that would prevent the vulnerabilities you identified.
-7. Lessons learned: What worked, what failed, and what you would approach differently.
+1. **Overview:** Machine name, difficulty, operating system, completion status, and a short attack-path summary.
+2. **Reconnaissance and enumeration:** Actual commands executed, relevant outputs, discovered services and their significance.
+3. **Vulnerability identification:** How you identified a weakness, why you believed it was exploitable and what evidence confirmed it.
+4. **Initial access:** The steps that resulted in access, including the relevant commands and successful output.
+5. **Privilege escalation:** The enumeration, misconfiguration or vulnerability that enabled elevated privileges, with evidence of the resulting access.
+6. **Remediation:** Specific changes that would prevent the vulnerabilities you identified.
+7. **Lessons learned:** What worked, what failed, and what you would approach differently.
 
 ## Areas of focus
 
