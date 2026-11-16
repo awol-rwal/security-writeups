@@ -21,6 +21,17 @@ This repository will document my approach to enumeration, vulnerability analysis
 | Footprinting | Medium | Windows | Incomplete | [View](hackthebox/footprinting-medium.md) |
 | TwoMillion | Easy | Linux | Incomplete | [View](hackthebox/twomillion.md) |
 
+## Write-up format
+
+Where appropriate, each write-up will cover:
+
+1. **Objective and scope** — what the exercise involved.
+2. **Enumeration** — how relevant systems and services were identified.
+3. **Analysis** — how potential vulnerabilities were assessed.
+4. **Testing** — actions taken within the authorised lab and their results.
+5. **Remediation** — ways the identified weaknesses could be addressed.
+6. **Lessons learned** — key takeaways and improvements for future testing.
+
 ## Areas of focus
 
 - Network and service reconnaissance
@@ -36,17 +47,6 @@ This repository will document my approach to enumeration, vulnerability analysis
 - Burp Suite
 - Metasploit
 - Linux command-line utilities
-
-## Write-up format
-
-Where appropriate, each write-up will cover:
-
-1. **Objective and scope** — what the exercise involved.
-2. **Enumeration** — how relevant systems and services were identified.
-3. **Analysis** — how potential vulnerabilities were assessed.
-4. **Testing** — actions taken within the authorised lab and their results.
-5. **Remediation** — ways the identified weaknesses could be addressed.
-6. **Lessons learned** — key takeaways and improvements for future testing.
 
 ## Publication policy
 
