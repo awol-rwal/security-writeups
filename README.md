@@ -28,11 +28,11 @@ This repository will document my approach to enumeration, vulnerability analysis
 
 ## Write-ups
 
-No public write-ups have been added yet. This section will become an index of completed exercises.
+### Hack The Box Write-ups
 
-| Exercise | Platform | Topics | Write-up |
-| --- | --- | --- | --- |
-| _Coming soon_ | — | — | — |
+| Machine | Difficulty | OS | Write-up |
+|---|---|---|---|
+| Nibbles | Easy | Linux | [View](hackthebox/nibbles.md) |
 
 ## Write-up format
 
